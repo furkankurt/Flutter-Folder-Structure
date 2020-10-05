@@ -1,6 +1,6 @@
 # Flutter 💙 Büyümeye Açık Yapı
 
-Medium'da yazdığım yazıda anlattığım büyümeye açık dosya yapısı örneğini bu projede bulabilirsiniz.
+[Medium.com'da yazdığım yazıda](https://medium.com/@fkurt97/flutter-b%C3%BCy%C3%BCmeye-a%C3%A7%C4%B1k-proje-yap%C4%B1s%C4%B1-8342f3696696) anlattığım büyümeye açık dosya yapısı örneğini bu projede bulabilirsiniz.
 
 ## Proje Yapısı
     ├── main.dart
